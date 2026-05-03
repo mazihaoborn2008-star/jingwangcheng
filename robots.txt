@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mazihaoborn2008-star.github.io/jingwangcheng/sitemap.xml
